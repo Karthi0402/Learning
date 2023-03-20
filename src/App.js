@@ -1,6 +1,7 @@
 import React from 'react'
-import './App.css';
-import './Props.css';
+import './Css/App.css';
+import './Css/Props.css';
+import './Css/uifont.css';
 // import { BrowserRouter,Routes,Route} from 'react-router-dom'
 import Header from './Components/Header';
 import SideBar from './Components/SideBar';
